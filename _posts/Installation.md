@@ -2,8 +2,8 @@
 layout: post
 title:  "ROS2 Installation"
 date:   2022-05-08 01:30:13 +0800
-categories: ROS2中文文档
-tags: ROS2
+categories: Default
+tags: test
 ---
 Installation[]{#InstallationGuide} {#FoxyInstall}
 ==================================
