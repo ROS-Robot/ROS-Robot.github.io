@@ -24,7 +24,7 @@ repository: ros_robot
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/ros_robot"
+github_profile: "https://github.com/ROS-Robot"
 user: "Allen Cang"
 user_email: "ros_robot@outlook.com"
 #contact_url: "https://goo.gl/tVljbV"
