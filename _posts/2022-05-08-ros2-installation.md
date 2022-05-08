@@ -2,7 +2,7 @@
 layout: post
 title:  "ROS2 Installation"
 date:   2022-05-08 01:30:13 +0800
-categories: Default
+categories: ROS2
 tags: test
 ---
 Installation[]{#InstallationGuide} {#FoxyInstall}
