@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ROS2中文手册
+title: Allen的技术博客
 subtitle: Allen的技术博客
 description: > # this means to ignore newlines until "baseurl:"
-  Allen的技术博客，主要分享机器人及ROS2的相关知识
+  Allen的技术博客，ROS2中文文档及技术分享。
 baseurl: ""
 url: "https://ros_robot.github.io"
 permalink: /:year/:month/:day/:title
