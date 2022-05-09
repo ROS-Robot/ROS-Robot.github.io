@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Allen的技术博客
+title: ROS2中文手册
 subtitle: Allen的技术博客
 description: > # this means to ignore newlines until "baseurl:"
   Allen的技术博客，主要分享机器人及ROS2的相关知识
