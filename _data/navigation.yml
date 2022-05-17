@@ -12,10 +12,10 @@ main:
   - title: "机器人技术应用"
     url: /portfolio/
         
-  - title: "ROS2中文文档库"
+  - title: "ROS2中文文档"
     url: /year-archive/
     
-  - title: "逻辑目录"
+  - title: "ROS2资源汇总"
     url: /cv/
     
   - title: "Guide"
