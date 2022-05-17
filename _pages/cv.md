@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # ROS2资源汇总
 ## Awesome Robot Operating System 2 (ROS 2)中文版 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -21,8 +19,8 @@ redirect_from:
 ## 主要内容
 
 - [软件包](#软件包)
-- [Forks](#forks)
-- [操作系统](#operating-systems)
+- [操作系统](#操作系统)
+- [分支](#分支)
 - [文档](#文档)
 - [社区](#社区)
 - [书籍](#书籍)
