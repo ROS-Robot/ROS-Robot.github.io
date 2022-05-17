@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "ROS2资源整理"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# ROS2资源汇总
+
 ## Awesome Robot Operating System 2 (ROS 2)中文版 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
