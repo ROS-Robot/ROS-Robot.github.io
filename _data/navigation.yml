@@ -9,13 +9,13 @@ main:
   - title: "原创博客"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "机器人技术应用"
     url: /portfolio/
         
   - title: "ROS2中文文档库"
     url: /year-archive/
     
-  - title: "文档逻辑目录"
+  - title: "逻辑目录"
     url: /cv/
     
   - title: "Guide"
