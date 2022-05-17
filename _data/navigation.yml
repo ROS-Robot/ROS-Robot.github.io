@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "技术论文"
+  - title: "机器人论文"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Robotics Review"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "原创博客"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "ROS2中文帮助文档"
+  - title: "ROS2中文文档库"
     url: /year-archive/
     
-  - title: "计算机视觉"
+  - title: "文档逻辑目录"
     url: /cv/
     
   - title: "Guide"
