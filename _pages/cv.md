@@ -29,7 +29,7 @@ redirect_from:
 - [论文](#论文)
 - [播客](#播客)
 - [服务](#服务)
-- [公司](#公司)
+- [相关公司](#相关公司)
 - [组织](#组织)
 - [工作组](#工作组)
 
@@ -425,7 +425,7 @@ DDS Security.
 
 - [rctf-list](https://github.com/aliasrobotics/RCTF) - 机器人CTF（RCTF）方案清单.
 
-## Companies
+## 相关公司
 
 - [Acutronic Robotics](https://github.com/AcutronicRobotics) - 不复存在. 硬件机器人信息模型（HRIM）、硬件机器人操作系统（H-ROS）的发起者和世界上第一个模块化工业机器人手臂MARA的创造者.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - "领先的边缘计算机".
